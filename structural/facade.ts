@@ -11,8 +11,8 @@ class ElectricalSystem {
 }
 
 class House {
-  public plumbingSystem: PlumbingSystem;
-  public electricalSystem: ElectricalSystem;
+  public plumbingSystem = new PlumbingSystem();
+  public electricalSystem = new ElectricalSystem();
 
   public turnOnSystems(): void {
     this.electricalSystem.setVoltage(120);
