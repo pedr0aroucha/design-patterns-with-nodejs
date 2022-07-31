@@ -1,1 +1,1 @@
-obs\* Os códigos deste repositório foram desenvolvidos durantes estudos. Referência: https://youtu.be/tv-_1er1mWI
+obs\* The codes in this repository were developed during studies. Reference: https://youtu.be/tv-_1er1mWI
